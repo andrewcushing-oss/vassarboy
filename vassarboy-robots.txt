@@ -1,0 +1,17 @@
+User-agent: *
+Allow: /
+Disallow: /thank-you.html
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+Sitemap: https://www.vassarboy.com/sitemap.xml
